@@ -47,6 +47,12 @@
        "id": 8,
        "time": "190",
        "title": "The Christmas Song (Chestnuts roasting on an open fire)"
+   },
+   {
+       "author": "Gene Autry",
+       "id": 9,
+       "time": "175",
+       "title": "Frosty The Snowman"
    }
 ]
 }
