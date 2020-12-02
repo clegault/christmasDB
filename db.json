@@ -1,0 +1,20 @@
+[
+  {
+    "author": "Gene Autry", 
+    "id": 1, 
+    "time": "192", 
+    "title": "Rudolph the Red Nosed Reindeer"
+  }, 
+  {
+    "author": "Mariah Carey", 
+    "id": 2, 
+    "time": "241", 
+    "title": "All I want for Christmas is you"
+  }, 
+  {
+    "author": "Bing Crosby", 
+    "id": 3, 
+    "time": "186", 
+    "title": "White Christmas"
+  }
+]
