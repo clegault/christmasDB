@@ -17,6 +17,12 @@
     "id": 3, 
     "time": "186", 
     "title": "White Christmas"
+  },
+  {
+      "author": "Judy Garland",
+      "id": 4,
+      "time": "170",
+      "title": "Have Yourself a Merry Little Christmas"
   }
 ]
 }
