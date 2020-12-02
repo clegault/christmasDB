@@ -1,4 +1,5 @@
-[
+{
+"songList": [
   {
     "author": "Gene Autry", 
     "id": 1, 
@@ -18,3 +19,4 @@
     "title": "White Christmas"
   }
 ]
+}
