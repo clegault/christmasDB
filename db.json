@@ -59,6 +59,24 @@
        "id": 10,
        "time": "158",
        "title": "Happy Holidays-The Holiday Season"
+   },
+   {
+       "author": "Bing Crosby",
+       "id": 11,
+       "time": "161",
+       "title": "Do You Hear What I Hear"
+   },
+   {
+       "author": "Johnny Mathis",
+       "id": 12,
+       "time": "172",
+       "title": "Sleigh Ride"
+   },
+   {
+       "author": "Frank Sinatra",
+       "id": 13,
+       "time": "117",
+       "title": "Santa Clause is Comin' to Town"
    }
 ]
 }
